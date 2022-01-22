@@ -1,0 +1,36 @@
+.color-bulb{
+    height: 100px;
+    width: 100px;
+    border-radius: 90px;
+    background-color: yellow;
+    border-color: black;
+}
+.switch1{
+    height: 50px;
+    width: 50%;
+    border-radius: 30%;
+    border-color: black;
+    margin: 10px;
+    /* margin-right: 5px;
+    margin-bottom: 70px; */
+}
+.switch2{
+    height: 50px;
+    width: 50%;
+    border-radius: 30%;
+    border-color: black;
+    margin: 10px;
+}
+
+#b1{
+    margin-top: 2px;
+    padding-left: 10%;
+}
+table{
+    height: 40%;
+    width: 40%;
+}
+
+td{
+    padding: 10px;
+}
